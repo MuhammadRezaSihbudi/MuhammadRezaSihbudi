@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Halo, Saya Muhammad Reza Sihbudi
 
-<!--
-**MuhammadRezaSihbudi/MuhammadRezaSihbudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Sistem Informasi  
+📍 Indonesia  
+🎯 Tertarik pada Admin Warehouse, Supply Chain, dan Data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tentang Saya
+Saya memiliki ketertarikan pada administrasi operasional dan pengelolaan data.
+Terbiasa menggunakan Excel, SQL, dan Java untuk mendukung proses kerja.
+
+---
+
+## 🛠️ Skill
+- Microsoft Excel (Data & Laporan)
+- SQL (MySQL / MariaDB)
+- Java (Aplikasi Desktop)
+- Flowchart & ERD
+
+---
+
+## 📂 Portofolio
+📦 Inventory & Warehouse  
+📊 Data & Database  
+💻 Aplikasi Desktop Java
+
+---
+
+## 📫 Kontak
+📧 Email: mrezasihbudi@gmail.com
+
